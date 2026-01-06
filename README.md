@@ -14,5 +14,5 @@ Tap the sprite to change its color.
 - Scratch
 
 
-![Project Screenshot]([project1j.png](https://raw.githubusercontent.com/clementelisha/Scratch-Tutorial-Projects/refs/heads/main/IMG_4154.jpeg
-))
+![Project Screenshot](project1j.png](https://raw.githubusercontent.com/clementelisha/Scratch-Tutorial-Projects/refs/heads/main/IMG_4154.jpeg
+)
