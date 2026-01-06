@@ -13,5 +13,6 @@ Tap the sprite to change its color.
 ## Built With
 - Scratch
 
-## File
-- tap-to-change-color.sb3
+
+![Project Screenshot]([project1j.png](https://raw.githubusercontent.com/clementelisha/Scratch-Tutorial-Projects/refs/heads/main/IMG_4154.jpeg
+))
