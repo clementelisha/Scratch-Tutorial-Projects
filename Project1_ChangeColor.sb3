@@ -1,0 +1,5 @@
+when green flag clicked
+set color effect to 0
+
+when this sprite clicked
+change color effect by 25
